@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "\"hola mundo, primer proyecto en node\"",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+    
+  },
+  "keywords": [
+  ],
+  "author": "aaron",
+  "license": "ISC"
+}
